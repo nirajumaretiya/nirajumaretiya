@@ -61,7 +61,7 @@ Design and simulation of a parameterized FIFO memory module with configurable si
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="(https://www.linkedin.com/in/niraj-umaretiya-32b8b726b">
+  <a href="https://www.linkedin.com/in/niraj-umaretiya-32b8b726b">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Nirajumretiya">
