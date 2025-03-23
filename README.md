@@ -27,7 +27,7 @@ I'm a passionate developer with a keen interest in both software and hardware de
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-// ... existing code ...
+
 ## 🎯 Current Focus
 
 - 🔧 Working on GPU architecture and hardware design
@@ -75,7 +75,7 @@ Design and simulation of a parameterized FIFO memory module with configurable si
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nirajumaretiya&color=blueviolet" alt="Profile Views"/>
 </div>
 
 <!--
