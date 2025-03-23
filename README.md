@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Niraj Umaretiya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;GPU+Architecture;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate hardware designer and developer with expertise in GPU architecture, digital systems, and hardware acceleration. My focus is on creating efficient and innovative hardware solutions.
+I'm a passionate hardware designer and developer with expertise in CPU/GPU architecture, digital systems, and hardware acceleration. My focus is on creating efficient and innovative hardware solutions.
 
 ## 💻 Tech Stack
 
@@ -15,6 +15,7 @@ I'm a passionate hardware designer and developer with expertise in GPU architect
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-FF6B6B?style=for-the-badge&logo=assembly&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2001-orange?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=systemverilog&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### EDA & Hardware Tools
