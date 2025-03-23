@@ -41,7 +41,7 @@ I'm a passionate hardware designer and developer with a keen interest in CPU/GPU
 A minimal GPU implementation in Verilog for educational purposes. This project demonstrates my passion for hardware design and computer architecture.
 
 ### [Fifo Memory](https://github.com/nirajumaretiya/Fifo-Memory)
-Design and simulation of a parameterized FIFO memory module with configurable size, data width, and control features.
+Design and simulation of a parameterized FIFO memory module with configurable size, data width, and control features like full/empty flags and overflow/underflow detection.
 
 ## 📈 GitHub Stats
 
