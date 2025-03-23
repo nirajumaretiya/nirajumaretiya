@@ -13,10 +13,10 @@ I'm a passionate developer with a keen interest in both software and hardware de
 ## 💻 Tech Stack
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2001-orange?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Hardware & Tools
 ![Quartus](https://img.shields.io/badge/-Quartus-2D9EF7?style=for-the-badge&logo=quartus&logoColor=white)
