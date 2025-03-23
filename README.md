@@ -5,10 +5,8 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate hardware designer and developer with a keen interest in GPU architecture, digital systems, and hardware acceleration. I'm constantly learning and exploring new technologies to create efficient and innovative hardware solutions.
-
+I'm a passionate hardware designer and developer with a keen interest in CPU/GPU architecture, digital systems, and hardware acceleration. I'm constantly learning and exploring new technologies to create efficient and innovative hardware solutions.
 ## 💻 Tech Stack
-
 ### Programming & Hardware Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
