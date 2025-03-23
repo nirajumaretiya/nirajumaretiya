@@ -5,8 +5,7 @@
 </div>
 
 ## 🚀 About Me
-
-I'm a passionate hardware designer and developer with expertise in CPU/GPU architecture, digital systems, and hardware acceleration. My focus is on creating efficient and innovative hardware solutions.
+I'm a passionate hardware designer and developer with a keen interest in GPU architecture, digital systems, and hardware acceleration. I'm constantly learning and exploring new technologies to create efficient and innovative hardware solutions.
 
 ## 💻 Tech Stack
 
