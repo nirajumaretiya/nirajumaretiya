@@ -18,8 +18,6 @@ I'm a passionate developer with a keen interest in both software and hardware de
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2001-orange?style=for-the-badge&logo=verilog&logoColor=white)
 
-// ... existing code ...
-
 ### Hardware & Tools
 ![Quartus](https://img.shields.io/badge/-Quartus-2D9EF7?style=for-the-badge&logo=quartus&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/-ModelSim-FF6B6B?style=for-the-badge&logo=modelsim&logoColor=white)
