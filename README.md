@@ -1,20 +1,21 @@
 # 👋 Hello, I'm Niraj Umaretiya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;FPGA+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;Parallel+Programming;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate hardware designer and developer with expertise in FPGA design, digital systems, and embedded development. My focus is on creating efficient and innovative hardware solutions.
+I'm a passionate hardware designer and developer with expertise in digital systems, parallel programming, and embedded development. My focus is on creating efficient and innovative hardware solutions.
 
 ## 💻 Tech Stack
 
 ### Programming & Hardware Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-FF6B6B?style=for-the-badge&logo=assembly&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2001-orange?style=for-the-badge&logo=verilog&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VHDL](https://img.shields.io/badge/VHDL-FF6B6B?style=for-the-badge&logo=vhdl&logoColor=white)
 
 ### EDA & Hardware Tools
 <div align="center">
@@ -22,6 +23,7 @@ I'm a passionate hardware designer and developer with expertise in FPGA design, 
   <img src="https://img.shields.io/badge/-ModelSim-FF6B6B?style=for-the-badge&logo=modelsim&logoColor=white" alt="ModelSim"/>
   <img src="https://img.shields.io/badge/-Vivado-4A90E2?style=for-the-badge&logo=vivado&logoColor=white" alt="Vivado"/>
   <img src="https://img.shields.io/badge/-Cadence-1A1A1A?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence"/>
+  <img src="https://img.shields.io/badge/-8051-FF6B6B?style=for-the-badge&logo=8051&logoColor=white" alt="8051"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -29,8 +31,8 @@ I'm a passionate hardware designer and developer with expertise in FPGA design, 
 
 ## 🎯 Current Focus
 
-- 🔧 FPGA Design & Verification
-- 🎮 Hardware Acceleration
+- 🔧 Hardware Design & Verification
+- 🎮 Parallel Programming & Optimization
 - 🤖 Digital System Design
 - 📱 Embedded Systems Development
 
@@ -52,9 +54,9 @@ Design and simulation of a parameterized FIFO memory module with configurable si
 ## 🌟 Fun Facts
 
 - 🎮 Gaming enthusiast with a focus on hardware performance
-- 🔧 Love tinkering with FPGAs and embedded systems
+- 🔧 Love exploring parallel programming and hardware optimization
 - 📚 Regular contributor to hardware design communities
-- 🌍 Passionate about sustainable and efficient hardware design
+- 🌍 Passionate about efficient and scalable hardware solutions
 
 ## 🤝 Let's Connect!
 
