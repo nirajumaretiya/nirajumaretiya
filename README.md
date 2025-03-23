@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Niraj Umaretiya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;Parallel+Programming;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;GPU+Architecture;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate hardware designer and developer with expertise in digital systems, parallel programming, and embedded development. My focus is on creating efficient and innovative hardware solutions.
+I'm a passionate hardware designer and developer with expertise in GPU architecture, digital systems, and hardware acceleration. My focus is on creating efficient and innovative hardware solutions.
 
 ## 💻 Tech Stack
 
@@ -31,8 +31,8 @@ I'm a passionate hardware designer and developer with expertise in digital syste
 
 ## 🎯 Current Focus
 
-- 🔧 Hardware Design & Verification
-- 🎮 Parallel Programming & Optimization
+- 🔧 GPU Architecture & Design
+- 🎮 Hardware Acceleration
 - 🤖 Digital System Design
 - 📱 Embedded Systems Development
 
@@ -53,10 +53,10 @@ Design and simulation of a parameterized FIFO memory module with configurable si
 
 ## 🌟 Fun Facts
 
-- 🎮 Gaming enthusiast with a focus on hardware performance
-- 🔧 Love exploring parallel programming and hardware optimization
+- 🎮 Gaming enthusiast with a focus on GPU architecture and performance
+- 🔧 Love exploring GPU design and hardware acceleration
 - 📚 Regular contributor to hardware design communities
-- 🌍 Passionate about efficient and scalable hardware solutions
+- 🌍 Passionate about efficient and scalable GPU solutions
 
 ## 🤝 Let's Connect!
 
