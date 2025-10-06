@@ -17,7 +17,6 @@ I'm a passionate hardware designer and developer with a keen interest in CPU/GPU
 ![Verilog](https://img.shields.io/badge/Verilog-2001-orange?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=systemverilog&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### EDA & Hardware Tools
 ![Quartus](https://img.shields.io/badge/-Quartus-2D9EF7?style=for-the-badge&logo=quartus&logoColor=white)
@@ -32,8 +31,6 @@ I'm a passionate hardware designer and developer with a keen interest in CPU/GPU
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -41,7 +38,6 @@ I'm a passionate hardware designer and developer with a keen interest in CPU/GPU
 ## 🎯 Current Focus
 - 🔧 GPU Architecture & Design
 - 🧠 AI-Accelerated Hardware Systems
-- 🤖 Full-Stack Tech Projects with Computer Vision
 - 📱 Embedded Systems Development
 
 ---
