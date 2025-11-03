@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 I'm a passionate hardware designer and embedded developer focusing on **FPGA-based accelerators**, **RISC-V SoCs**, and **AI-integrated digital systems**.  
-My interests span from **GPU architecture** and **hardware security** to **edge AI** and **hardware/software co-design**.  
+My interests span from **GPU architecture** and **edge AI** and **hardware/software co-design**.  
 I love exploring the intersection of **electronics, algorithms, and intelligence** — building systems that make hardware truly *think*.
 
 ---
@@ -47,10 +47,6 @@ I love exploring the intersection of **electronics, algorithms, and intelligence
 
 ## 📚 Featured Projects
 
-### 🔹 [I2C Address Translator](#)
-> *(Private Repository – Verilog)*  
-An FPGA-based I²C Address Translator allowing multiple same-address devices to coexist on a single bus. Implements dynamic address remapping logic and protocol-level arbitration.
-
 ### 🔹 [tinygpu](https://github.com/nirajumaretiya/tinygpu)
 A minimal GPU in **SystemVerilog** with a custom SIMD ISA and cocotb-based verification. Simulates instruction pipelines, register files, and ALU operations.
 
@@ -60,26 +56,14 @@ A **SystemVerilog**-based packet router featuring modular architecture and funct
 ### 🔹 [SPI Verification Environment](https://github.com/nirajumaretiya/SPI-verification)
 Developed a **UVM-like verification testbench** for SPI protocol. Validated master-slave communication and timing across multiple configurations.
 
-### 🔹 [Scrolling Display (8051)](https://github.com/nirajumaretiya/Scrolling_display_8051)
-An **Assembly-level implementation** of a scrolling message display using 8051 microcontroller. Demonstrates low-level hardware control and delay calibration.
-
 ### 🔹 [FIFO Memory](https://github.com/nirajumaretiya/FIFO-Memory)
 Designed a parameterized **FIFO memory module** with configurable data width and clock domains. Includes testbenches for functional and timing verification.
-
-### 🔹 [SmartCrop](https://github.com/nirajumaretiya/SmartCrop)
-A **C++ and OpenCV** project for content-aware image resizing using **seam carving** and dynamic programming for minimal distortion.
 
 ### 🔹 [Gamify](https://github.com/nirajumaretiya/Gamify)
 An AI-driven highlight detector for gameplay videos using **YOLOv8**, **OpenCV**, and a **Flask + Next.js** stack for a smooth web interface.
 
-### 🔹 [KitchenMate](https://github.com/nirajumaretiya/KitchenMate)
-AI-powered **restaurant inventory and recipe recommender** leveraging Gemini AI, ResNet50, and YOLOv8 for ingredient recognition.
-
 ### 🔹 [Smart Parking System](https://github.com/nirajumaretiya/smart-parking-system)
 IoT-enabled web dashboard for automated parking space detection and management.
-
-### 🔹 [Distance Vector Routing Algorithm](https://github.com/nirajumaretiya/Disctance_vector_routing_algorithm)
-A **Python-based network simulation** demonstrating distributed routing and convergence visualization for dynamic topologies.
 
 ---
 
