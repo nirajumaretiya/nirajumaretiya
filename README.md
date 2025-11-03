@@ -80,7 +80,6 @@ IoT-enabled web dashboard for automated parking space detection and management.
 - 💡 Solved **500+ DSA problems** across Codeforces, LeetCode, and GFG  
 - 🏅 **HackNuThon 2024 & Minded Hackathon 2025** Finalist  
 - 🎮 Gaming enthusiast and GPU microarchitecture hobbyist  
-- 🔬 Research interests: **Hardware Security, BISR/MBIST, and Edge AI Accelerators**
 
 ---
 
