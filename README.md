@@ -1,7 +1,4 @@
 # 👋 Hello, I'm Niraj Umaretiya!
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hardware+Designer;RISC-V+and+FPGA+Developer;AI+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
-</div>
 
 ## 🚀 About Me
 I'm a passionate hardware designer and embedded developer focusing on **FPGA-based accelerators**, **RISC-V SoCs**, and **AI-integrated digital systems**.  
