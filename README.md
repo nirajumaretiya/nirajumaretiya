@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Niraj Umaretiya!
 
-## 🚀 About Me
+## About Me
 I'm a passionate hardware designer and embedded developer focusing on **FPGA-based accelerators**, **RISC-V SoCs**, and **AI-integrated digital systems**.  
 My interests span from **GPU architecture** and **edge AI** and **hardware/software co-design**.  
 I love exploring the intersection of **electronics, algorithms, and intelligence** — building systems that make hardware truly *think*.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🧩 Programming & Hardware Languages
+###  Programming & Hardware Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-FF6B6B?style=for-the-badge)
@@ -26,7 +26,7 @@ I love exploring the intersection of **electronics, algorithms, and intelligence
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge)
 
-### 🧠 Software, Frameworks & Libraries
+###  Software, Frameworks & Libraries
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
@@ -34,15 +34,15 @@ I love exploring the intersection of **electronics, algorithms, and intelligence
 
 ---
 
-## 🎯 Current Focus
-- 🔧 RISC-V & GPU Architecture  
-- ⚡ Energy-Efficient FPGA Accelerator Design  
-- 🧠 AI and Vision Hardware Integration  
-- 🔌 Embedded Systems (8051, ARM7, Raspberry Pi)  
+##  Current Focus
+- RISC-V & GPU Architecture  
+- Energy-Efficient FPGA Accelerator Design  
+- AI and Vision Hardware Integration  
+- Embedded Systems (8051, ARM7, Raspberry Pi)  
 
 ---
 
-## 📚 Featured Projects
+## Featured Projects
 
 ### 🔹 [tinygpu](https://github.com/nirajumaretiya/tinygpu)
 A minimal GPU in **SystemVerilog** with a custom SIMD ISA and cocotb-based verification. Simulates instruction pipelines, register files, and ALU operations.
@@ -72,15 +72,15 @@ IoT-enabled web dashboard for automated parking space detection and management.
 
 ---
 
-## 🏆 Achievements & Fun Facts
-- 🧠 **Meta Hacker Cup 2024** – Global Rank: *2324*  
-- 💡 Solved **500+ DSA problems** across Codeforces, LeetCode, and GFG  
-- 🏅 **HackNuThon 2024 & Minded Hackathon 2025** Finalist  
-- 🎮 Gaming enthusiast and GPU microarchitecture hobbyist  
+## Achievements & Fun Facts
+-  **Meta Hacker Cup 2024** – Global Rank: *2324*  
+-  Solved **500+ DSA problems** across Codeforces, LeetCode, and GFG  
+-  **HackNuThon 2024 & Minded Hackathon 2025** Finalist  
+-  Gaming enthusiast and GPU microarchitecture hobbyist  
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Nirajumretiya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajumretiya7@gmail.com)
