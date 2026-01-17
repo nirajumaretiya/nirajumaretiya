@@ -1,99 +1,87 @@
-# 👋 Hello, I'm Niraj Umaretiya!
-
-## About Me
-I'm a passionate hardware designer and embedded developer focusing on **FPGA-based accelerators**, **RISC-V SoCs**, and **AI-integrated digital systems**.  
-My interests span from **GPU architecture** and **edge AI** and **hardware/software co-design**.  
-I love exploring the intersection of **electronics, algorithms, and intelligence** — building systems that make hardware truly *think*.
-
----
-
-## Tech Stack
-
-###  Programming & Hardware Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-FF6B6B?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-F77F00?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### ⚙️ EDA & Hardware Tools
-![Vivado](https://img.shields.io/badge/Vivado-4A90E2?style=for-the-badge)
-![ModelSim](https://img.shields.io/badge/ModelSim-FF6B6B?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence-1A1A1A?style=for-the-badge)
-![Quartus](https://img.shields.io/badge/Quartus-2D9EF7?style=for-the-badge)
-![Keil µVision](https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge)
-
-###  Software, Frameworks & Libraries
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge)
-
----
-
-##  Current Focus
-- RISC-V & GPU Architecture  
-- Energy-Efficient FPGA Accelerator Design  
-- AI and Vision Hardware Integration  
-- Embedded Systems (8051, ARM7, Raspberry Pi)  
-
----
-
-## Featured Projects
-
-### 🔹 [tinygpu](https://github.com/nirajumaretiya/tinygpu)
-A minimal GPU in **SystemVerilog** with a custom SIMD ISA and cocotb-based verification. Simulates instruction pipelines, register files, and ALU operations.
-
-### 🔹 [1x3 Router Design & Verification](https://github.com/nirajumaretiya/1x3_router_design_and_verification)
-A **SystemVerilog**-based packet router featuring modular architecture and functional verification using assertions and directed/randomized testbenches.
-
-### 🔹 [SPI Verification Environment](https://github.com/nirajumaretiya/SPI-verification)
-Developed a **UVM-like verification testbench** for SPI protocol. Validated master-slave communication and timing across multiple configurations.
-
-### 🔹 [FIFO Memory](https://github.com/nirajumaretiya/FIFO-Memory)
-Designed a parameterized **FIFO memory module** with configurable data width and clock domains. Includes testbenches for functional and timing verification.
-
-### 🔹 [Gamify](https://github.com/nirajumaretiya/Gamify)
-An AI-driven highlight detector for gameplay videos using **YOLOv8**, **OpenCV**, and a **Flask + Next.js** stack for a smooth web interface.
-
-### 🔹 [Smart Parking System](https://github.com/nirajumaretiya/smart-parking-system)
-IoT-enabled web dashboard for automated parking space detection and management.
-
----
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nirajumaretiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact&theme=radical"/>
+  <img src="https://komarev.com/ghpvc/?username=nirajumaretiya&label=Profile%20views&color=0e75b6&style=flat" alt="nirajumaretiya" />
 </p>
 
-
-
-
-
----
-
-## Achievements & Fun Facts
--  **Meta Hacker Cup 2024** – Global Rank: *2324*  
--  Solved **500+ DSA problems** across Codeforces, LeetCode, and GFG  
--  **HackNuThon 2024 & Minded Hackathon 2025** Finalist  
--  Gaming enthusiast and GPU microarchitecture hobbyist  
+<h1 align="center">hey there, I'm Niraj Umaretiya 👋</h1>
+<h3 align="center">VLSI | FPGA | Hardware Security | AI Accelerator | Embedded Systems</h3>
 
 ---
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Nirajumretiya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajumretiya7@gmail.com)
+## 👨‍💻 About Me :
+
+- 🎓 Final-year Engineering student working in **VLSI, Embedded Systems & Computer Architecture**
+- 🔬 Worked on **MBIST, BISR, Memory Testing, Tessent DFT Flow**
+- 🚀 Currently building **AI Accelerators, Video Processing IPs & RISC-V based Systems**
+- 🧠 Strong interest in **Digital Design, Hardware Security, FPGA, SoC Architecture**
+- 🇮🇳 From India
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirajumaretiya&color=blueviolet" alt="Profile Views"/>
-</div>
+## 🛠️ Languages and Tools :
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,matlab" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+**Also worked with:**
+- SystemVerilog, Embedded C
+- Siemens Tessent, QuestaSim, ModelSim
+- Cadence Virtuoso, Genus, Innovus
+- Synopsys DC, Conformal
+- OpenRAM, FPGA (Artix-7)
+
+---
+
+## 🧩 Major Domains :
+
+- 🧠 VLSI Design & Verification  
+- 🔐 Hardware Security (PUF, Secure Architectures)  
+- 🧪 MBIST, BIRA, BISR, Memory Fault Modeling  
+- 🖥️ FPGA & RTL Design  
+- 📷 Video Processing Accelerators  
+- 🤖 Machine Learning & AI Hardware  
+- ⚙️ Embedded Systems (ARM, RISC-V)
+
+---
+
+## 🚀 Featured Projects :
+
+- 🔹 **MBIST & BISR Automation using Siemens Tessent**
+- 🔹 **Low-Power Video Processing Accelerator with RISC-V**
+- 🔹 **Compute-in-Memory AI Accelerator for Edge Devices**
+- 🔹 **Resolution Scaler IP (720p–4K)**
+- 🔹 **PUF Implementation on FPGA**
+- 🔹 **SM4 Cryptographic Core (RTL + Software)**
+
+---
+
+## 📊 GitHub Activity Graph :
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajumaretiya&theme=react-dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirajumaretiya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajumaretiya&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact :
+
+- 📧 Email: nirajumretiya7@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/
+
+---
+
+⭐ *If you like my work, consider starring some repositories!*
