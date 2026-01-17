@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">hey there, I'm Niraj Umaretiya 👋</h1>
-<h3 align="center">VLSI | FPGA | Hardware Security | AI Accelerator | Embedded Systems</h3>
+<h3 align="center">VLSI | FPGA | CPU | GPU</h3>
 
 ---
 
