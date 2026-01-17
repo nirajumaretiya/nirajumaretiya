@@ -27,6 +27,10 @@
   <!-- HDL (manual icons) -->
   <img src="https://img.shields.io/badge/Verilog-RTL-blue?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/SystemVerilog-RTL-orange?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siemens%20Tessent-DFT-darkgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cadence-VLSI-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Synopsys-EDA-purple?style=for-the-badge" />
+
 </p>
 
 
