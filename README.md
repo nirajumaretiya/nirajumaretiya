@@ -19,18 +19,18 @@
 ## 🛠️ Languages and Tools :
 
 <p align="left">
-  <!-- Software & OS -->
+  <!-- Main icons (skillicons) -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode" />
 
   <br/><br/>
 
-  <!-- HDL & EDA -->
-  <img height="48" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/verilog.svg" />
-  <img height="48" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/systemverilog.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Siemens_AG_logo.svg" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cadencedesignsystems.svg" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/synopsys.svg" />
+  <!-- Manual icons styled like skillicons -->
+  <img height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/systemverilog/systemverilog-original.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/siemens.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cadencedesignsystems.svg" />
 </p>
+
 
 
 
