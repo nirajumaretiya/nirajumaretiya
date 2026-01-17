@@ -45,12 +45,12 @@
 
 ## 🚀 Featured Projects :
 
-- 🔹 **TinyGPU — Minimal GPU Core in SystemVerilog**
-- 🔹 **MBIST & BISR Implementation using Siemens Tessent**
-- 🔹 **1×3 Router Design and Verification in Verilog**
-- 🔹 **DDR3 Memory Controller (RTL Design)**
-- 🔹 **SPI Protocol Verification in SystemVerilog**
-- 🔹 **FIFO Memory Design in Verilog**
+- **TinyGPU — Minimal GPU Core in SystemVerilog**
+- **MBIST & BISR Implementation using Siemens Tessent**
+- **1×3 Router Design and Verification in Verilog**
+- **DDR3 Memory Controller (RTL Design)**
+- **SPI Protocol Verification in SystemVerilog**
+- **FIFO Memory Design in Verilog**
 
 ---
 
