@@ -19,10 +19,16 @@
 ## 🛠️ Languages and Tools :
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,systemverilog,matlab" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim" />
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode" />
+
+  <br/><br/>
+
+  <!-- HDL (manual icons) -->
+  <img src="https://img.shields.io/badge/Verilog-RTL-blue?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-RTL-orange?style=for-the-badge&logo=verilog&logoColor=white" />
 </p>
+
 
 **Also worked with:**
 - SystemVerilog, Embedded C
