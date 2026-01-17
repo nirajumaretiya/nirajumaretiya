@@ -19,16 +19,16 @@
 ## 🛠️ Languages and Tools :
 
 <p align="left">
-  <!-- Main icons (skillicons) -->
+  <!-- Normal icons -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode" />
 
   <br/><br/>
 
-  <!-- Manual icons styled like skillicons -->
-  <img height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" />
-  <img height="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/systemverilog/systemverilog-original.svg" />
-  <img height="64" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/siemens.svg" />
-  <img height="64" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cadencedesignsystems.svg" />
+  <!-- Custom HDL / EDA tiles -->
+  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/verilog.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/systemverilog.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/siemens.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/cadence.svg" />
 </p>
 
 
