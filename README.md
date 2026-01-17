@@ -19,18 +19,17 @@
 ## 🛠️ Languages and Tools :
 
 <p align="left">
-  <!-- Programming -->
+  <!-- Software & OS -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode" />
 
   <br/><br/>
 
-  <!-- HDL (manual icons) -->
-  <img src="https://img.shields.io/badge/Verilog-RTL-blue?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-RTL-orange?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Siemens%20Tessent-DFT-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cadence-VLSI-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Synopsys-EDA-purple?style=for-the-badge" />
-
+  <!-- HDL & EDA (icon style, same size) -->
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Verilog_logo.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SystemVerilog_logo.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Siemens_AG_logo.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Cadence_Design_Systems_logo.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Synopsys_logo.svg" />
 </p>
 
 
