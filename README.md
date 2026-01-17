@@ -9,20 +9,19 @@
 
 ## 👨‍💻 About Me :
 
-- 🎓 Final-year Engineering student working in **VLSI, Embedded Systems & Computer Architecture**
+- 🎓 Final-year Engineering student working in **VLSI, FPGA & Computer Architecture**
 - 🔬 Worked on **MBIST, BISR, Memory Testing, Tessent DFT Flow**
-- 🚀 Currently building **AI Accelerators, Video Processing IPs & RISC-V based Systems**
+- 🚀 Currently building **DDR3 Controller**
 - 🧠 Strong interest in **Digital Design, Hardware Security, FPGA, SoC Architecture**
-- 🇮🇳 From India
 
 ---
 
 ## 🛠️ Languages and Tools :
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,systemverilog,matlab" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim" />
 </p>
 
 **Also worked with:**
@@ -36,11 +35,9 @@
 
 ## 🧩 Major Domains :
 
-- 🧠 VLSI Design & Verification  
-- 🔐 Hardware Security (PUF, Secure Architectures)  
-- 🧪 MBIST, BIRA, BISR, Memory Fault Modeling  
+- 🧠 VLSI Design & Verification
 - 🖥️ FPGA & RTL Design  
-- 📷 Video Processing Accelerators  
+- 🧪 MBIST, BIRA, BISR, Memory Fault Modeling  
 - 🤖 Machine Learning & AI Hardware  
 - ⚙️ Embedded Systems (ARM, RISC-V)
 
@@ -48,12 +45,12 @@
 
 ## 🚀 Featured Projects :
 
-- 🔹 **MBIST & BISR Automation using Siemens Tessent**
-- 🔹 **Low-Power Video Processing Accelerator with RISC-V**
-- 🔹 **Compute-in-Memory AI Accelerator for Edge Devices**
-- 🔹 **Resolution Scaler IP (720p–4K)**
-- 🔹 **PUF Implementation on FPGA**
-- 🔹 **SM4 Cryptographic Core (RTL + Software)**
+- 🔹 **TinyGPU — Minimal GPU Core in SystemVerilog**
+- 🔹 **MBIST & BISR Implementation using Siemens Tessent**
+- 🔹 **1×3 Router Design and Verification in Verilog**
+- 🔹 **DDR3 Memory Controller (RTL Design)**
+- 🔹 **SPI Protocol Verification in SystemVerilog**
+- 🔹 **FIFO Memory Design in Verilog**
 
 ---
 
