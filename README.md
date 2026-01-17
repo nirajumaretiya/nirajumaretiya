@@ -19,27 +19,17 @@
 ## 🛠️ Languages and Tools :
 
 <p align="left">
-  <!-- Normal icons -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode" />
-
-  <br/><br/>
-
-  <!-- Custom HDL / EDA tiles -->
-  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/verilog.svg" />
-  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/systemverilog.svg" />
-  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/siemens.svg" />
-  <img height="64" src="https://raw.githubusercontent.com/nirajumaretiya/assets/main/cadence.svg" />
 </p>
 
-
-
-
-**Also worked with:**
-- SystemVerilog, Embedded C
-- Siemens Tessent, QuestaSim, ModelSim
-- Cadence Virtuoso, Genus, Innovus
-- Synopsys DC, Conformal
-- OpenRAM, FPGA (Artix-7)
+**HDL & EDA:**
+- Verilog
+- SystemVerilog
+- Siemens Tessent
+- Cadence (Virtuoso, Genus, Innovus)
+- Synopsys (DC, Conformal)
+- ModelSim / QuestaSim
+- OpenRAM
 
 ---
 
