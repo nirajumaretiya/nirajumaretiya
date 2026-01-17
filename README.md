@@ -24,13 +24,14 @@
 
   <br/><br/>
 
-  <!-- HDL & EDA (icon style, same size) -->
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Verilog_logo.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SystemVerilog_logo.svg" />
+  <!-- HDL & EDA -->
+  <img height="48" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/verilog.svg" />
+  <img height="48" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/systemverilog.svg" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Siemens_AG_logo.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Cadence_Design_Systems_logo.svg" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Synopsys_logo.svg" />
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cadencedesignsystems.svg" />
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/synopsys.svg" />
 </p>
+
 
 
 **Also worked with:**
