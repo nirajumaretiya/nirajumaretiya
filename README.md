@@ -35,11 +35,11 @@
 
 ## 🧩 Major Domains :
 
-- 🧠 VLSI Design & Verification
-- 🖥️ FPGA & RTL Design  
-- 🧪 MBIST, BIRA, BISR, Memory Fault Modeling  
-- 🤖 Machine Learning & AI Hardware  
-- ⚙️ Embedded Systems (ARM, RISC-V)
+- VLSI Design & Verification
+- FPGA & RTL Design  
+- MBIST, BIRA, BISR, Memory Fault Modeling  
+- Machine Learning & AI Hardware  
+- Embedded Systems (ARM, RISC-V)
 
 ---
 
