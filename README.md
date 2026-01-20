@@ -10,9 +10,9 @@
 ## 👨‍💻 About Me :
 
 - 🎓 Final-year Engineering student working in **VLSI, FPGA & Computer Architecture**
-- 🔬 Worked on **MBIST, BISR, Memory Testing, Tessent DFT Flow**
+- 🔬 Worked on **MBIST, BIRA/BISR, Tessent DFT Flow**
 - 🚀 Currently building **DDR3 Controller**
-- 🧠 Strong interest in **Digital Design, Hardware Security, FPGA, SoC Architecture**
+- 🧠 Strong interest in **Digital Design, Physical Design, Design for Test**
 
 ---
 
@@ -37,20 +37,18 @@
 
 - VLSI Design & Verification
 - FPGA & RTL Design  
-- MBIST, BIRA, BISR, Memory Fault Modeling  
-- Machine Learning & AI Hardware  
-- Embedded Systems (ARM, RISC-V)
+- MBIST, BIRA/BISR, Memory Fault Modeling  
+- AI Hardware  
 
 ---
 
 ## 🚀 Featured Projects :
 
 - **TinyGPU — Minimal GPU Core in SystemVerilog**
-- **MBIST & BISR Implementation using Siemens Tessent**
+- **MBIST & BIRA Implementation using Siemens Tessent**
 - **1×3 Router Design and Verification in Verilog**
-- **DDR3 Memory Controller (RTL Design)**
 - **SPI Protocol Verification in SystemVerilog**
-- **FIFO Memory Design in Verilog**
+- **DDR3 Memory Controller (RTL Design)**
 
 ---
 
