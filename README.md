@@ -58,6 +58,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajumaretiya&theme=react-dark" />
 </p>
 
+## 📊 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&repo=my-project&layout=compact)
+
+
 ---
 
 ## 📈 GitHub Stats :
