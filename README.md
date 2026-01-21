@@ -31,15 +31,6 @@
 - ModelSim / QuestaSim
 - OpenRAM
 
-- ![SV](https://img.shields.io/badge/SystemVerilog-blue)
-![Verilog](https://img.shields.io/badge/Verilog-blue)
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-![TCL](https://img.shields.io/badge/TCL-blue)
-![Shell](https://img.shields.io/badge/Bash-blue)
-
-
 ---
 
 ## 🧩 Major Domains :
@@ -70,6 +61,11 @@
 ## 📊 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&repo=my-project&layout=compact)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajumaretiya&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact)
 
 ---
 
