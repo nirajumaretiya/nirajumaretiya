@@ -61,11 +61,6 @@
 ## 📊 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&repo=my-project&layout=compact)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajumaretiya&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact)
 
 ---
 
