@@ -31,6 +31,15 @@
 - ModelSim / QuestaSim
 - OpenRAM
 
+- ![SV](https://img.shields.io/badge/SystemVerilog-blue)
+![Verilog](https://img.shields.io/badge/Verilog-blue)
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-blue)
+![TCL](https://img.shields.io/badge/TCL-blue)
+![Shell](https://img.shields.io/badge/Bash-blue)
+
+
 ---
 
 ## 🧩 Major Domains :
