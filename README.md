@@ -11,7 +11,7 @@
 
 - 🎓 Final-year Engineering student working in **VLSI, FPGA & Computer Architecture**
 - 🔬 Worked on **MBIST, BIRA/BISR, Tessent DFT Flow**
-- 🚀 Currently building **DDR3 Controller**
+- 🚀 Currently Interfacing **DDR3 Controller**
 - 🧠 Strong interest in **Digital Design, Physical Design, Design for Test**
 
 ---
@@ -48,7 +48,7 @@
 - **MBIST & BIRA Implementation using Siemens Tessent**
 - **1×3 Router Design and Verification in Verilog**
 - **SPI Protocol Verification in SystemVerilog**
-- **DDR3 Memory Controller (RTL Design)**
+- **DDR3 Memory Controller Interfacing with FPGA (RTL Design)**
 
 ---
 
