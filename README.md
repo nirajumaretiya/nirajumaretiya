@@ -48,7 +48,7 @@
 - **MBIST & BIRA Implementation using Siemens Tessent**
 - **1×3 Router Design and Verification in Verilog**
 - **SPI Protocol Verification in SystemVerilog**
-- **DDR3 Memory Controller Interfacing with FPGA (RTL Design)**
+- **DDR3 Memory Controller Interface with FPGA (RTL Design)**
 
 ---
 
