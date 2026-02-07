@@ -54,13 +54,22 @@
 
 ## 📊 GitHub Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajumaretiya&theme=react-dark&bg_color=0D1117" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsavbalar1231&theme=react-dark" />
+</p>
 
-## 📊 Languages Used
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utsavbalar1231&show_icons=true&theme=react-dark" />
+</p>
+
+## 🛠️ Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbalar1231&layout=compact&theme=react-dark" />
+</p>
+
 
 
 
