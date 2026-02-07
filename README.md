@@ -53,25 +53,17 @@
 ---
 
 <div align="center">
-    
-    <img src="https://github.com/nirajumaretiya/blob/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
 
-    <br/>
+  <br/>
 
-    <a href="#">
-        <img src="https://github.com/nirajumaretiya/blob/main/profile-summary-card-output/solarized/3-stats.svg" alt="Stats" />
-    </a>
-    <a href="#">
-        <img src="https://github.com/nirajumaretiya/blob/main/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Top Languages" />
-    </a>
-
+  <a href="#">
+    <img src="profile-summary-card-output/solarized/3-stats.svg" alt="Stats" />
+  </a>
+  <a href="#">
+    <img src="profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Top Languages" />
+  </a>
 </div>
-
-
-
-
-
-
 ---
 
 ## 📈 GitHub Stats :
