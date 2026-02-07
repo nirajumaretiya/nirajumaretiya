@@ -50,21 +50,6 @@
 - **SPI Protocol Verification in SystemVerilog**
 - **DDR3 Memory Controller Interface with FPGA (RTL Design)**
 
----
-
-<div align="center">
-  <img src="profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
-
-  <br/>
-
-  <a href="#">
-    <img src="profile-summary-card-output/solarized/3-stats.svg" alt="Stats" />
-  </a>
-  <a href="#">
-    <img src="profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Top Languages" />
-  </a>
-</div>
----
 
 ## 📈 GitHub Stats :
 
