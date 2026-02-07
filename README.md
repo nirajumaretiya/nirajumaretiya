@@ -52,23 +52,20 @@
 
 ---
 
-## 📊 GitHub Activity Graph
+<div align="center">
+    
+    <img src="https://github.com/nirajumaretiya/blob/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsavbalar1231&theme=react-dark" />
-</p>
+    <br/>
 
-## 📊 GitHub Stats
+    <a href="#">
+        <img src="https://github.com/nirajumaretiya/blob/main/profile-summary-card-output/solarized/3-stats.svg" alt="Stats" />
+    </a>
+    <a href="#">
+        <img src="https://github.com/nirajumaretiya/blob/main/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Top Languages" />
+    </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsavbalar1231&show_icons=true&theme=react-dark" />
-</p>
-
-## 🛠️ Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbalar1231&layout=compact&theme=react-dark" />
-</p>
+</div>
 
 
 
