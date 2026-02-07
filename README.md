@@ -55,11 +55,11 @@
 ## 📊 GitHub Activity Graph :
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajumaretiya&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajumaretiya&theme=react-dark&bg_color=0D1117" />
 </p>
 
 ## 📊 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&repo=my-project&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact)
 
 
 ---
