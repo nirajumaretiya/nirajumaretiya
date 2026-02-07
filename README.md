@@ -60,7 +60,8 @@
 
 ## 📊 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact&cache_seconds=1800)
+
 
 
 
