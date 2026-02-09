@@ -7,16 +7,16 @@
 
 ---
 
-## 👨‍💻 About Me :
+## About Me :
 
-- 🎓 Final-year Engineering student working in **VLSI, FPGA & Computer Architecture**
-- 🔬 Worked on **MBIST, BIRA/BISR, Tessent DFT Flow**
-- 🚀 Currently Interfacing **DDR3 Controller**
-- 🧠 Strong interest in **Digital Design, Physical Design, Design for Test**
+- Final-year Engineering student working in **VLSI, FPGA & Computer Architecture**
+- Worked on **MBIST, BIRA/BISR, Tessent DFT Flow**
+- Currently Interfacing **DDR3 Controller**
+- Strong interest in **Digital Design, Physical Design, Design for Test**
 
 ---
 
-## 🛠️ Languages and Tools :
+## Languages and Tools :
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 🧩 Major Domains :
+## Major Domains :
 
 - VLSI Design & Verification
 - FPGA & RTL Design  
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Featured Projects :
+## Featured Projects :
 
 - **TinyGPU — Minimal GPU Core in SystemVerilog**
 - **MBIST & BIRA Implementation using Siemens Tessent**
@@ -51,7 +51,7 @@
 - **DDR3 Memory Controller Interface with FPGA (RTL Design)**
 
 
-## 📈 GitHub Stats :
+## GitHub Stats :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirajumaretiya&show_icons=true&theme=tokyonight" />
@@ -60,6 +60,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajumaretiya&theme=tokyonight" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact)
 
 ---
 
