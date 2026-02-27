@@ -14,8 +14,8 @@
 > **Final-year Engineering Student** passionate about high-performance compute architectures, bridging the gap between digital design and physical implementation.
 
 ### Current Focus & Expertise
-- **Active Project:** DDR3 Memory Controller Interfacing (FPGA Based RTL)
-- **Core Expertise:** MBIST Implementation, BIRA/BISR Architecture, Siemens Tessent DFT Flow
+- **Active Project:** Exploring ASICs
+- **Core Expertise:** RTL Design and Verification, CMOS basics
 - **Domains:** Digital/Physical Design, DFT, High-Performance Compute Architectures, AI Hardware Acceleration, CPU/GPU Microarchitecture
 
 <br/>
@@ -39,6 +39,7 @@
 * **TinyGPU** — *Minimal GPU Core in SystemVerilog*
 * **MBIST & BIRA Implementation** — *Using Siemens Tessent*
 * **DDR3 Memory Controller Interface** — *With FPGA*
+* **Bitcoin miner** — *With FPGA*
 * **1×3 Router Design & Verification** — *In Verilog*
 * **SPI Protocol Verification** — *In SystemVerilog*
 
