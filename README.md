@@ -18,8 +18,6 @@
 - **Core Expertise:** RTL Design and Verification, CMOS basics
 - **Domains:** Digital/Physical Design, DFT, High-Performance Compute Architectures, AI Hardware Acceleration, CPU/GPU Microarchitecture
 
-<br/>
-
 ### Technical Arsenal
 
 <div align="center">
@@ -29,11 +27,9 @@
 </div>
 
 * **Hardware Description:** Verilog, SystemVerilog
-* **EDA & Synthesis:** Siemens Tessent, Synopsys (Design Compiler, Conformal)
-* **Physical Design:** Cadence (Virtuoso, Genus, Innovus), OpenRAM
-* **Simulation:** ModelSim, QuestaSim
-
-<br/>
+* **Physical Design:** Cadence (Virtuoso, Genus, Innovus), Synopsys (Design Compiler, iCC2), OpenRAM
+* **DFT & MBSIT** Cadence(Modus, Conformal), Mentor Graphics(Tessent shell)
+* **Simulation:** ModelSim, QuestaSim, GTKWAVE
 
 ### Featured Projects
 * **TinyGPU** — *Minimal GPU Core in SystemVerilog*
@@ -41,9 +37,6 @@
 * **DDR3 Memory Controller Interface** — *With FPGA*
 * **Bitcoin miner** — *With FPGA*
 * **1×3 Router Design & Verification** — *In Verilog*
-* **SPI Protocol Verification** — *In SystemVerilog*
-
-<br/>
 
 ### GitHub Analytics
 
