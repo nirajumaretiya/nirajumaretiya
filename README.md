@@ -1,49 +1,26 @@
 <div align="center">
-  <h1>Niraj Umaretiya</h1>
-  <h3>VLSI | FPGA | Computer Architecture | AI Hardware</h3>
-  
-  <p align="center">
-    <a href="mailto:nirajumretiya7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=nirajumaretiya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
+
+# Niraj Umaretiya
+**VLSI · FPGA · Computer Architecture · AI Hardware**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirajumretiya7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/)
+![Views](https://komarev.com/ghpvc/?username=nirajumaretiya&label=Views&color=0e75b6&style=flat-square)
+
 </div>
 
-<br/>
+Final-year Engineering student exploring ASICs, RTL design & verification, and high-performance compute architectures.
 
-> **Final-year Engineering Student** passionate about high-performance compute architectures, bridging the gap between digital design and physical implementation.
+**Skills:** Verilog · SystemVerilog · C/C++ · Python · MATLAB · Linux · Git  
+**EDA:** Cadence (Virtuoso, Genus, Innovus, Modus, Conformal) · Synopsys (DC, iCC2) · Tessent · ModelSim · OpenRAM
 
-### Current Focus & Expertise
-- **Active Project:** Exploring ASICs
-- **Core Expertise:** RTL Design and Verification, CMOS basics
-- **Domains:** Digital/Physical Design, DFT, High-Performance Compute Architectures, AI Hardware Acceleration, CPU/GPU Microarchitecture
-
-### Technical Arsenal
+**Projects:** TinyGPU (SystemVerilog) · MBIST & BIRA (Tessent) · DDR3 Controller · Bitcoin Miner · 1×3 Router — all on FPGA/ASIC flows
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git,github,vscode&perline=8" alt="Tech Skills" />
-  </a>
-</div>
 
-* **Hardware Description:** Verilog, SystemVerilog
-* **Physical Design:** Cadence (Virtuoso, Genus, Innovus), Synopsys (Design Compiler, iCC2), OpenRAM
-* **DFT & MBSIT** Cadence(Modus, Conformal), Mentor Graphics(Tessent shell)
-* **Simulation:** ModelSim, QuestaSim, GTKWAVE
+![Stats](https://github-readme-stats.vercel.app/api?username=nirajumaretiya&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6&rank_icon=github&hide=stars&card_width=300&height=145)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&card_width=215&height=145)
 
-### Featured Projects
-* **TinyGPU** — *Minimal GPU Core in SystemVerilog*
-* **MBIST & BIRA Implementation** — *Using Siemens Tessent*
-* **DDR3 Memory Controller Interface** — *With FPGA*
-* **Bitcoin miner** — *With FPGA*
-* **1×3 Router Design & Verification** — *In Verilog*
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajumaretiya&theme=tokyonight&hide_border=true&stroke=0000&title_color=0e75b6&card_width=520)
 
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirajumaretiya&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajumaretiya&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6" height="165" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajumaretiya&theme=tokyonight&hide_border=true&stroke=0000&title_color=0e75b6" height="165" alt="GitHub Streak" />
 </div>
