@@ -9,7 +9,7 @@
 
 </div>
 
-Final-year engineer exploring ASICs, RTL, and high-performance architectures—building hardware from system-level design down to transistors.
+Final-year Student exploring ASICs, RTL, and high-performance architectures—building hardware from system-level design down to transistors.
 
 **Skills:** Verilog · SystemVerilog · C/C++ · Python · MATLAB · Linux · Git  
 **EDA:** Cadence (Virtuoso, Genus, Innovus, Modus, Conformal) · Synopsys (DC, iCC2) · Tessent · ModelSim · OpenRAM
