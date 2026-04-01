@@ -11,7 +11,7 @@
 
 Final-year Student exploring ASICs, RTL, and high-performance architectures—building hardware from system-level design down to transistors.
 
-**Skills:** Verilog · SystemVerilog · C/C++ · Python · MATLAB · Linux · Git  
+**Skills:** Verilog · SystemVerilog · C/C++ · Python · MATLAB · Git  
 **EDA:** Cadence (Virtuoso, Genus, Innovus, Modus, Conformal) · Synopsys (DC, iCC2) · Tessent · ModelSim · OpenRAM
 
 **Projects:** TinyGPU (SystemVerilog) · MBIST & BIRA (Tessent) · DDR3 Controller · Bitcoin Miner · 1×3 Router — all on FPGA/ASIC flows
