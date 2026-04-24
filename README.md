@@ -1,6 +1,5 @@
 <div align="center">
-
-Hello there!
+<h1>Hello there! 👋</h1>
 
 **VLSI · FPGA · Computer Architecture · AI Hardware**
 
