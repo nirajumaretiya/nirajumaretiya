@@ -1,13 +1,13 @@
 <div align="center">
 
 Hello there!
+
 **VLSI · FPGA · Computer Architecture · AI Hardware**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirajumretiya7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/)
 ![Views](https://komarev.com/ghpvc/?username=nirajumaretiya&label=Views&color=0e75b6&style=flat-square)
 
-</div>
 
 Final-year Student exploring ASICs, RTL, and high-performance architectures—building ASICs from transistors.
 
