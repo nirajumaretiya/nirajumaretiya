@@ -1,6 +1,6 @@
 <div align="center">
 
-# Niraj Umaretiya
+Hello there!
 **VLSI · FPGA · Computer Architecture · AI Hardware**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirajumretiya7@gmail.com)
