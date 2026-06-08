@@ -13,7 +13,7 @@ Recent graduate exploring ASICs, RTL, and high-performance architectures—build
 **Skills:** Verilog · SystemVerilog · C/C++ · Python · MATLAB · Git  
 **EDA:** Cadence (Virtuoso, Genus, Innovus, Modus, Conformal) · Synopsys (DC, iCC2) · Tessent · ModelSim · OpenRAM
 
-**Projects:** TinyGPU (SystemVerilog) · MBIST & BIRA (Tessent) · DDR3 Controller · Bitcoin Miner · 1×3 Router — all on FPGA/ASIC flows
+**Projects:** TinyGPU (SystemVerilog) · MBIST & BIRA (Tessent) · DDR3 Controller · Bitcoin Miner · 1×3 Router - all on FPGA/ASIC flows
 
 <div align="center">
 
