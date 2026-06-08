@@ -8,7 +8,7 @@
 ![Views](https://komarev.com/ghpvc/?username=nirajumaretiya&label=Views&color=0e75b6&style=flat-square)
 
 
-Recent graduate exploring ASICs, RTL, and high-performance architectures—building ASICs from transistors.
+Recent graduate exploring ASICs, RTL, and high-performance architectures - building ASICs from transistors.
 
 **Skills:** Verilog · SystemVerilog · C/C++ · Python · MATLAB · Git  
 **EDA:** Cadence (Virtuoso, Genus, Innovus, Modus, Conformal) · Synopsys (DC, iCC2) · Tessent · ModelSim · OpenRAM
