@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hello! 👋</h1>
 
-**VLSI · FPGA · Computer Architecture · AI Hardware**
+**Physical Design · Memories · Computer Architecture · AI Hardware**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nirajumretiya7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-umaretiya-32b8b726b/)
